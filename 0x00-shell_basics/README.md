@@ -1,3 +1,1 @@
-shell basic command.s
-alx course
-
+script that prints the absolute path name of the current working directory.
