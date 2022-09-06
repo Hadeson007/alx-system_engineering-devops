@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -la > ls_cwd-content
+#!/bin/basih
+ls -la > ls_cwd_content
